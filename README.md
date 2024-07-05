@@ -1,22 +1,7 @@
-Collaborative Project At Masai School “Geekbuying Clone”.
-Getting Started…
-There were six people in a group, each person contributed equally to this project.
-We took six days to clone this project and the overall construct is about seven days.
-My teammates are Pragati Tiwari, Shubham Singh Bhadouria, Md Naquee Alam, Ganesh Tarachand More, and Rupesh Sahu including me Manoj Kumar.
+
  
 Project Details -
 Geekbuying is the ultimate shopping hub for new releases covering smart home products like vacuum cleaners, fitness equipment like treadmills, top-of-the-line home and office furniture, outdoor items including e-bikes, scooters, and other consumer goods like TV boxes, RC Toys and so much more! Shop for your favorite brands and products today.
-
-
-
-Our Team Members ❤️:
-
-* Pragati Tiwari.
-* Shubham Singh Bhadouria.
-* Md Naquee Alam.
-* Ganesh Tarachand More.
-* Rupesh Sahu.
-* Manoj Kumar.
 
 
 * Tools 🛠️:
@@ -37,17 +22,6 @@ Functions ⚙️:
 * Slider.
 * Add to Wish List.
 * Check-Out.
-
-Learnings 📒:
-
-* We all became proficient in reading the code of team members.
-* Our code writing style became cleaner as we had to think while writing code that other team members will be reading.
-* We had to learn about many properties that we didn't know before.
-* Our skills in JavaScript, HTML and CSS became better.
-* We all learned how to plan a project and execute that.
-
-
-
 
 * Some Glimpse and Screenshots of our website
 
